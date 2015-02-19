@@ -1,5 +1,7 @@
 # Wiki
 
+[gimmick:theme](yeti)
+
 [Primo Anno Triennale](1T.md)
 [Secondo Anno Triennale](2T.md)
 [Terzo Anno Triennale](3T.md)
