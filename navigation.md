@@ -7,7 +7,7 @@
 [Primo Anno Magistrale]()
   
   * # Primo Semestre
-  * [Linguaggi e Modelli Computazionali](2M/linguaggiEModelliM.md)
+  * [Linguaggi e Modelli Computazionali](1M/linguaggiEModelliM.md)
 
 [Secondo Anno Magistrale]()
 
