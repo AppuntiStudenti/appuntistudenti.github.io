@@ -41,11 +41,11 @@ Orale rapidissimo! lui ti mette a tuo agio e dimostrate familiarità e siate sic
  
 ---
  
- Di che tipo sono le grammatiche: a^m b^m c^(2m) , M>1 - a^m c^(2m) , M>1
- E per quale lemma possiamo affermarlo?
- Dato un ASF disegnare regole lineari sinistre e destre?
- Proprietà delle Reti di Petri e touring equivalenza?
- Prototipi java (come si possono modificare e quali sono le ripercussioni su oggetti già creati e su quelli ancora da creare)?
+- Di che tipo sono le grammatiche: a^m b^m c^(2m) , M>1 - a^m c^(2m) , M>1
+- E per quale lemma possiamo affermarlo?
+- Dato un ASF disegnare regole lineari sinistre e destre?
+- Proprietà delle Reti di Petri e touring equivalenza?
+- Prototipi java (come si possono modificare e quali sono le ripercussioni su oggetti già creati e su quelli ancora da creare)?
  
 ---
 
